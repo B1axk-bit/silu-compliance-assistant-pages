@@ -1,2 +1,2 @@
-:HL["/silu-compliance-assistant-pages/_next/static/chunks/1sy0amnzgqvye.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"material-review","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"4NWLPGfu4pkTdpyif2MRN"}
+:HL["/silu-compliance-assistant-pages/_next/static/chunks/1ngav5_nuujbr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"material-review","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"vbtp-g5MtJ5gKpgrv1j3z"}
