@@ -1,2 +1,2 @@
-:HL["/silu-compliance-assistant-pages/_next/static/chunks/0a-n7yqvru_58.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cases","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"IQyQtAzDsYES5mEbd8d5s"}
+:HL["/silu-compliance-assistant-pages/_next/static/chunks/0q-ctrxpgasei.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cases","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"7D78sLAnxARmK7qqCQVLd"}
