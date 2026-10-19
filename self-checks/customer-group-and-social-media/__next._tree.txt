@@ -1,2 +1,2 @@
-:HL["/silu-compliance-assistant-pages/_next/static/chunks/0q-ctrxpgasei.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"self-checks","param":null,"prefetchHints":0,"slots":{"children":{"name":"checkId","param":{"type":"d","key":"customer-group-and-social-media","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"7D78sLAnxARmK7qqCQVLd"}
+:HL["/silu-compliance-assistant-pages/_next/static/chunks/1wtr64ytexyip.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"self-checks","param":null,"prefetchHints":0,"slots":{"children":{"name":"checkId","param":{"type":"d","key":"customer-group-and-social-media","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0Mi8Ogi3IjkbCUyNn9s3k"}

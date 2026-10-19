@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,34907,t=>{t.q("/silu-compliance-assistant-pages/_next/static/media/silu-wordmark-blue.2_bstob53y7v2.webp")}]);
